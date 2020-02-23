@@ -1,0 +1,151 @@
+* INFORMAÇÃO
+- Forgot Your Password
+  - https://arambartholl.com/forgot-your-password/
+  - https://arambartholl.com/forgot-your-password-city-version/
+
+- Spiderbytes
+  - https://vimeo.com/137579997
+
+- Newstweek
+  - https://theinfluencers.org/en/julian-oliver
+
+* ECOLOGIA
+- https://www.theguardian.com/technology/2020/feb/21/climate-tweets-twitter-bots-analysis
+
+* IDENTIDADE
+- Unintended Consequences
+  - http://www.irbypace.com/unintended-consequences/video/
+
+* TRABALHO
+- Gallery.Delivery
+  - http://sebastianschmieg.com/gallery-delivery/
+
+- Julianr
+  - https://github.com/LeTarrask/Julianr
+
+* MATERIALIDADE / ESPECULAÇÃO COM A MÍDIA
+- Generation Decay
+  - https://www.andrewmaxedon.com/generational-decay
+  - (sitting in a room / sitting in a video room)
+
+- 56 Kindle Broken Screens
+  - http://sebastianschmieg.com/56brokenkindlescreens/
+
+- Inserções em Circuitos Ideológicos
+  - https://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328
+  - https://www.artsy.net/artwork/cildo-meireles-insercoes-em-circuitos-ideologicos-2-projeto-cedula-quem-matou-herzog-insertions-in-ideological-circuits-2-banknote-project-who-killed-herzog
+
+- Redacting Classified Documents
+  - https://www.nationaljournal.com/s/71902/art-redacting-classified-documents
+
+** TEXTO GENERATIVO
+- One Hudred Thousand Billion Poems
+  - https://en.wikipedia.org/wiki/Hundred_Thousand_Billion_Poems
+
+- Oblique Strategies
+  - http://www.rtqe.net/ObliqueStrategies/
+  - http://stoney.sb.org/eno/oblique.html
+  - cards against humanity / twitter bot (?)
+
+- What The Fuck Should I Do as an Art Project Today
+  - https://web.archive.org/web/20180805202852/http://whatthefuckshouldidoasanartprojecttoday.com/
+
+- Mezzacotta Baked Comics
+  - https://www.mezzacotta.net/
+
+- Markovmasher
+  - https://smorgenfeld.github.io/projects/markovmasher.html
+
+** PONTE ANALÓGICO/DIGITAL
+- burnedyourtweet
+  - http://davidneevel.com/2017/04/06/burnedyourtweet-2/
+
+- CONSTI2G0
+  - https://vimeo.com/88304676
+
+- Telephone Operator
+  - https://www.youtube.com/watch?v=5F7RjuHsUJc
+
+- Source Code Poetry
+  - https://www.sourcecodepoetry.com/
+  - https://github.com/jeraman/o-livro-dos-softwares-inuteis
+  - http://code-poems.com/book.html
+
+- signalToNoise
+  - https://www.wired.com/2013/12/this-exhibit-turns-old-school-travel-schedule-boards-into-art/
+  - https://www.lab-au.com/signaltonoise
+
+- Handwritten Invoice
+  - https://www.mokafolio.de/works/Handwritten-Invoice
+
+- CNC print
+  - http://www.flong.com/projects/gml-experiments/
+  - outros exemplos de computer-aided writing
+
+
+# * MISC (urbanart)
+# - A Lost
+#   - https://www.booooooom.com/2012/04/18/artist-julien-berthier/
+
+# - SpY
+#   - http://spy-urbanart.com/work/
+
+* NOTAS POST-DIGITAL PRINT
+- p.33
+  - Vinil pirata com placas de raio-x. Manifestantes em Hong Kong usando Tinder/Airdrop
+  - https://www.theguardian.com/music/2015/jan/29/bone-music-soviet-bootleg-records-pressed-on-xrays
+  - https://www.youtube.com/watch?v=49aWAHqi200
+  - https://www.abacusnews.com/digital-life/swipe-right-revolution-why-hong-kong-protesters-are-using-tinder-and-pokemon-go/article/3021460
+
+- p.44
+  - Apropriação dos meios e conjunturas do momento/local ("Inserção em Circuitos Ideológicos).
+  - Tornar público. Existe uma urgência no ato. Qual a urgência atual? Quais os meios/dispositivos à disposição?
+
+- p.45
+  - Individualização da mensagem. Filter bubble. Browser fingerprinting
+  - https://en.wikipedia.org/wiki/Filter_bubble
+  - https://panopticlick.eff.org/
+
+- p.46
+  - Fake news / pós-verdade. Texto generativo. Markov chain / AI (style analysis. Heterônimos Pessoa, Chico Xavier).
+  - https://www.alternaterealitynews.com/
+  - https://umbandaead.blog.br/2017/09/01/estudo-comprova-a-verdade-de-psicografiadechico/
+  - Outros tipos de media synthesis (video, voz, style transfer AI)
+
+  - Tomada dos meios de produção Marxista inclui meios de disseminação de informação
+    - "Journalism is printing what somebody else does not want printed – everything else is Public Relations” – George Orwell
+
+- p.50
+  - Praticamente resumo do objetivo da disciplina...
+
+# * colecoes para analisar
+# https://arambartholl.com/archive/
+# http://jamesbridle.com/works
+# http://sebastianschmieg.com/
+
+# ** links lia
+# https://www.gemalto.com/review/facialrecognition/index.aspx
+
+# https://www.youtube.com/watch?v=lH2gMNrUuEY
+
+# https://www.youtube.com/watch?v=BU9YAHigNx8
+
+# https://www.reddit.com/r/SFWdeepfakes/comments/7vy36n/rdeepfakes_has_been_banned/
+
+# https://www.theverge.com/2018/1/30/16945494/deepfakes-porn-face-swap-legal
+
+# https://www.vice.com/en_ca/article/j5wngd/kim-kardashian-deepfake-mark-zuckerberg-facebook-youtube
+
+# https://www.youtube.com/watch?v=0VxGqjtuJuE
+
+# https://en.wikipedia.org/wiki/Alphonse_Bertillon#/media/File:Bertillon,_Alphonse,_fiche_anthropométrique_recto-verso.jpg
+
+# https://www.theverge.com/2017/10/30/16569402/ai-generate-fake-faces-celebs-nvidia-gan
+
+# https://generated.photos/faces
+
+# http://quasimondo.com
+
+# https://www.youtube.com/watch?v=bfhcco9gS30&feature=emb_title
+
+# https://theglassroom.org/glassroomlondon/exhibits
