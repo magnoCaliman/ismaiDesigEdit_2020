@@ -7,7 +7,7 @@
   - https://arambartholl.com/forgot-your-password/
   - https://arambartholl.com/forgot-your-password-city-version/
 
-- Spiderbytes
+- Spiderbytes/transcription#3
   - https://vimeo.com/137579997
 
 - Newstweek
@@ -50,7 +50,6 @@
 - Oblique Strategies
   - http://www.rtqe.net/ObliqueStrategies/
   - http://stoney.sb.org/eno/oblique.html
-  - cards against humanity / twitter bot (?)
 
 - What The Fuck Should I Do as an Art Project Today
   - https://web.archive.org/web/20180805202852/http://whatthefuckshouldidoasanartprojecttoday.com/
@@ -61,12 +60,19 @@
 - Markovmasher
   - https://smorgenfeld.github.io/projects/markovmasher.html
 
+- Twitter Bot
+  - https://twitter.com/friendsomatic
+
 ** PONTE ANALÓGICO/DIGITAL
 - burnedyourtweet
   - http://davidneevel.com/2017/04/06/burnedyourtweet-2/
 
 - CONSTI2G0
   - https://vimeo.com/88304676
+
+- Arquivo Escuro
+  - https://vimeo.com/241237286
+  - https://vimeo.com/244822407
 
 - Telephone Operator
   - https://www.youtube.com/watch?v=5F7RjuHsUJc
@@ -83,10 +89,14 @@
 - Handwritten Invoice
   - https://www.mokafolio.de/works/Handwritten-Invoice
 
-- CNC print
-  - http://www.flong.com/projects/gml-experiments/
-  - outros exemplos de computer-aided writing
+- Graffiti Drone
+  - https://www.youtube.com/watch?v=Ep5tPWphKFY
+  - https://techcrunch.com/2019/07/05/this-drone-swarm-spray-painted-a-jumbo-size-graffiti-mural/
+  - https://www.youtube.com/watch?v=YTvr3jCsf0o
 
+- CNC print
+  - https://www.youtube.com/watch?v=atkGcfnsK3A
+  - https://www.studiointernational.com/index.php/chance-and-control-art-in-the-age-of-computers-review-victoria-albert-museum
 
 # * MISC (urbanart)
 # - A Lost
@@ -127,6 +137,7 @@
 # https://arambartholl.com/archive/
 # http://jamesbridle.com/works
 # http://sebastianschmieg.com/
+# https://www.unbore.org/stories/apocalyptic-visions-how-do-these-artists-and-designers-face-the-impending-future-of-the-climate-crisis-and-other-global-disasters
 
 # ** links lia
 # https://www.gemalto.com/review/facialrecognition/index.aspx
