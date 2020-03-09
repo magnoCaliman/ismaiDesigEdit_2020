@@ -2,30 +2,95 @@
 
 [[./headerImg.jpg]]
 
-* INFORMAÇÃO
+* IDENTIDADE/INFORMAÇÃO
+
+** Reconhecimento facial 
+- What Facial Recognition Steals From Us
+  - https://www.youtube.com/watch?v=cc0dqW2HCRc
+
+- Gemalto
+  - https://www.gemalto.com/review/facialrecognition/index.aspx
+
+- Detector De Corrupção
+  - https://www.vice.com/pt_br/article/vbx5k8/testamos-o-app-que-reconhece-o-rosto-dos-politicos-que-respondem-por-crimes
+
+- How To Beat Facial Recognition
+  - https://medium.com/@lancengym/how-to-beat-facial-recognition-ab118a0c37fd
+
+** Privacidade
+- From 1 to 100 Pixels
+https://www.youtube.com/watch?v=bfhcco9gS30&feature=emb_title
+https://ahprojects.com/projects/
+
+- Unintended Consequences
+  - http://www.irbypace.com/unintended-consequences/video/
+
 - Forgot Your Password
   - https://arambartholl.com/forgot-your-password/
   - https://arambartholl.com/forgot-your-password-city-version/
 
-- Spiderbytes/transcription#3
-  - https://vimeo.com/137579997
+- Have I Been Pwned
+  - https://haveibeenpwned.com/
+
+- Obscurity And Privacy
+  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2439866
+
+- The Glass Room 
+  - https://theglassroom.org/glassroomlondon/exhibits
+
+- Where The F**k Was I
+  - https://jamesbridle.com/works/where-the-f-k-was-i
+
+** Pós-verdade 
+"False information that produces real events" - p.53
 
 - Newstweek
   - https://theinfluencers.org/en/julian-oliver
 
-* ECOLOGIA
-- https://www.theguardian.com/technology/2020/feb/21/climate-tweets-twitter-bots-analysis
+- How Robot Writers Could Change The Internet
+  - https://www.youtube.com/watch?v=gcHkxP9adiM
 
-* IDENTIDADE
-- Unintended Consequences
-  - http://www.irbypace.com/unintended-consequences/video/
+- Alternate Reality News
+  - https://www.alternaterealitynews.com/
+
+- Iraq War Wikihistoriography
+  - https://jamesbridle.com/works/iraq-war-wikihistoriography
+
+** Deepfake
+
+- The Shinning starring Jim Carrey
+  - https://www.youtube.com/watch?v=-ZRUZzZPGto&t=98s
+
+- Donna Trump
+  - https://www.youtube.com/watch?v=jd0jP3EC0yQ
+
+- Face2Face
+  - https://www.youtube.com/watch?v=ohmajJTcpNk
+
+- Obama
+  - https://www.youtube.com/watch?v=cQ54GDm1eL0
+
+- Alternative Face
+  - http://quasimondo.com/
+
+- Adobe Text Based Editing
+  - https://www.youtube.com/watch?v=147GawtmE8g
+
+- Replica Voices
+  - https://www.youtube.com/watch?v=f4DgHI9J3U8
+
+- Generated Photos
+  - https://generated.photos/faces
+
 
 * TRABALHO
 - Gallery.Delivery
   - http://sebastianschmieg.com/gallery-delivery/
 
-- Julianr
-  - https://github.com/LeTarrask/Julianr
+* ECOLOGIA
+- https://www.theguardian.com/technology/2020/feb/21/climate-tweets-twitter-bots-analysis
+- https://www.unbore.org/stories/apocalyptic-visions-how-do-these-artists-and-designers-face-the-impending-future-of-the-climate-crisis-and-other-global-disasters
+
 
 * MATERIALIDADE / ESPECULAÇÃO COM A MÍDIA
 - Generation Decay
@@ -73,6 +138,10 @@
 - Arquivo Escuro
   - https://vimeo.com/241237286
   - https://vimeo.com/244822407
+# Arquivo Escuro, 2016.
+# Ação para objeto. Uma esfera de metal descansa sobre a letra Z de um computador, formatado com fonte e preenchimento na cor preta, criando um “texto” contínuo. Ao final da exposição, gera-se um arquivo condizente com o tempo em que o objeto esteve em ação.
+
+# O trabalho tem uma mecânica relativamente simples: formata-se um arquivo de word com as seguintes características: a fonte na cor preta, o preenchimento do texto preto, sem margens. O peso de metal é entao colocado sobre a letra Z do notebook, que tece potencialmente uma listra negra infinita. Teoricamente, arquivo escuro é um trabalho que aponta para o infinito. A quantidade de informação digital gerada é redundante, o que faz com que o arquivo cresça em extensão mas não em peso (bytes). Em aparência, o objeto se assemelha a uma interface de vídeo, mas tudo ali acontece no ato: é um objeto em ação. A ideia de que o trabalho esteja sendo feito no mesmo tempo em que é assistido o leva para o campo da performance, apesar de não haver qualquer interferência humana a não ser a primeira: o ato de depositar o peso na tecla Z e iniciar o texto infinito. Aliás, o aspecto talvez principal do trabalho é ele estar distante do humano: é como uma maquina esquecida em algum lugar no tempo e espaço que continuaria a produzir  independente da presença do homem.
 
 - Telephone Operator
   - https://www.youtube.com/watch?v=5F7RjuHsUJc
@@ -165,3 +234,25 @@
 # https://www.youtube.com/watch?v=bfhcco9gS30&feature=emb_title
 
 # https://theglassroom.org/glassroomlondon/exhibits
+
+# * Conteúdo Programático
+# 1. Fundamentos do Design Editorial
+# a) Anatomia e componentes técnicas e estruturais dos suportes editoriais impressos, nomeadamente: livros, revistas, jornais;
+# b) Estudo sobre estrutura e sistemas de grelhas nos suportes editoriais impressos: proporção, secção áurea, simetria/assimetria, margens e formato;
+# c) Tipografia nos suportes editoriais impressos: espaçamento, alinhamento, legibilidade e métrica;
+# d) Narrativa, navegação e ritmo no suporte editorial impresso;
+
+# 2. A Revolução Digital e a Mutação da Publicação Impressa
+# a) Profecias sobre a morte do papel: do século 19 ao século XXI;
+# b) O impacto da World Wide Web na edição de jornais/periódicos;
+# c) Impresso versus digital: hipertexto, repetição, partilha, categorização, navegação, distribuição; 
+# d) A publicação pós-digital;
+
+# 3. Materialidade da Media, Mediação Tecnológica e Ativismo 
+# a) O dispositivo tecnológico enquanto mediador da comunicação e do trabalho artístico: não-transparência do aparato e marca da media;
+# b) Publicação enquanto ato urgente e contextual: publicações de guerrilha, ativação de redes entre pares, subversão de limitações político-geográficas;
+# c) Análises críticas tanto de ferramentas quanto de objetos de arte digital e design especulativo que promovem pontes entre o analógico e digital: twitterbots, impressoras 3D/CNC, instalações interativas, Arduinos, IA.
+
+
+
+ 
